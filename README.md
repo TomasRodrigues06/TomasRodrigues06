@@ -67,22 +67,20 @@ Escolhi o curso de Sistemas de Informação devido ao meu interesse em ingressar
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### Projetos
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+**`InFact`**
+<h2>Projeto Desenvolvido no 2° período utilizando HTML,CSS, JavaScript, e principalmente, Django.</h2>
+<a>https://sites.google.com/cesar.school/site-grupo6/home?authuser=0</a>
 
-</p>
+**`EnemAprovado`**
+<h2>Sistema desenvolvido no 1° período utilizando Python. Desenvolvido na discplina de projetos 1, o sistema foi criado para dar suporte para alunos interessados em fazer o enem.</h2>
+<h3>Link do Site:</h3>
+<a>https://sites.google.com/cesar.school/enemaprovado/início?authuser=1</a>
+<h3>Link do GitHub:</h3>
+<a>https://github.com/gacneto/AV2</a>
+
+**`Site sobre o sistema binário`**
+<h2>Site desenvolvido no 1° periodo utilizando HTML, CSS e JavaScript. Esse site tem o instuito de explicar um pouco como funciona o sistema binário e sua história.</h2>
+<h3>Link do GitHub:</h3>
