@@ -70,17 +70,15 @@ Escolhi o curso de Sistemas de Informação devido ao meu interesse em ingressar
 
 ### Projetos
 
-**`InFact`**
+## InFact
 <h2>Projeto Desenvolvido no 2° período utilizando HTML,CSS, JavaScript, e principalmente, Django.</h2>
 <a>https://sites.google.com/cesar.school/site-grupo6/home?authuser=0</a>
 
-**`EnemAprovado`**
-<h2>Sistema desenvolvido no 1° período utilizando Python. Desenvolvido na discplina de projetos 1, o sistema foi criado para dar suporte para alunos interessados em fazer o enem.</h2>
-<h3>Link do Site:</h3>
-<a>https://sites.google.com/cesar.school/enemaprovado/início?authuser=1</a>
-<h3>Link do GitHub:</h3>
-<a>https://github.com/gacneto/AV2</a>
+## EnemAprovado
+<p>Sistema desenvolvido no 1° período utilizando Python. Desenvolvido na discplina de projetos 1, o sistema foi criado para dar suporte para alunos interessados em fazer o enem.</p>
+<a href="https://sites.google.com/cesar.school/enemaprovado/início?authuser=1">Link do site</a>
+<a href="https://github.com/gacneto/AV2">Link do GitHub</a>
 
-**`Site sobre o sistema binário`**
-<h2>Site desenvolvido no 1° periodo utilizando HTML, CSS e JavaScript. Esse site tem o instuito de explicar um pouco como funciona o sistema binário e sua história.</h2>
-<h3>Link do GitHub:</h3>
+## Site sobre o sistema binário
+<p>Site desenvolvido no 1° periodo utilizando HTML, CSS e JavaScript. Esse site tem o instuito de explicar um pouco como funciona o sistema binário e sua história.</p>
+<a href="https://site-binario.vercel.app/">Link do GitHub:</a>
