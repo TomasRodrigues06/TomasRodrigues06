@@ -81,4 +81,4 @@ Escolhi o curso de Sistemas de Informação devido ao meu interesse em ingressar
 
 ### Site sobre o sistema binário
 <p>Site desenvolvido no 1° periodo utilizando HTML, CSS e JavaScript. Esse site tem o instuito de explicar um pouco como funciona o sistema binário e sua história.</p>
-<a href="https://site-binario.vercel.app/">Link do GitHub</a>
+<a href="https://site-binario.vercel.app/">Link do Site</a>
