@@ -71,8 +71,8 @@ Escolhi o curso de Sistemas de Informação devido ao meu interesse em ingressar
 ## 💼 Projetos
 
 ### InFact
-<h2>Projeto Desenvolvido no 2° período utilizando HTML,CSS, JavaScript, e principalmente, Django.</h2>
-<a  href="https://sites.google.com/cesar.school/site-grupo6/home?authuser=0">Link do site</a>
+<p>Projeto Desenvolvido no 2° período utilizando HTML,CSS, JavaScript, e principalmente, Django.</p>
+<a href="https://sites.google.com/cesar.school/site-grupo6/home?authuser=0">Link do site</a>
 
 ### EnemAprovado
 <p>Sistema desenvolvido no 1° período utilizando Python. Desenvolvido na discplina de projetos 1, o sistema foi criado para dar suporte para alunos interessados em fazer o enem.</p>
